@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1251918680 source:z:\programs\firmware\c\testb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"shift.h"
+	"gridDimension.h"
+	"config.h"
+
+1251479770 z:\programs\firmware\c\testb\shift.h
+	"gridDimension.h"
+
+1251394368 source:z:\programs\firmware\c\testb\shift.c
+	<stdio.h>
+	<stdlib.h>
+	"gridDimension.h"
+	"shift.h"
+
+1251730935 z:\programs\firmware\c\testb\griddimension.h
+
+1251212646 z:\programs\firmware\c\testb\config.h
+
+1251739699 source:z:\programs\firmware\c\testb\loadgrid.c
+	<stdio.h>
+
